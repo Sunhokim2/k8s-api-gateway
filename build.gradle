@@ -10,7 +10,7 @@ ext {
 
 // 버전은 모든 서비스별로 독립적이다.
 group = 'com.welab'
-version = '0.0.1-SNAPSHOT'
+version = '0.0.2'
 
 java {
     toolchain {
